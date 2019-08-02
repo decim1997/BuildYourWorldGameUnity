@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0F6733F7-A52A-F9FA-A5F4-D054ED1E2CAF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BlockScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BlockScript.cs" Line="258" Column="1" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/harvest.cs" />
+      <File FileName="Assets/Scripts/SettingMenuScript.cs" />
+      <File FileName="Assets/Scripts/MainMenuScript.cs" />
+      <File FileName="Assets/Scripts/RecipeRequireScript.cs" />
+      <File FileName="Assets/Scripts/progressbarscript.cs" />
+      <File FileName="Assets/Scripts/SettingDropDown.cs" />
+      <File FileName="Assets/Scripts/InventoryScript.cs" />
+      <File FileName="Assets/Resources/item.txt" />
+      <File FileName="Assets/Scripts/itemDataScript.cs" />
+      <File FileName="Assets/Scripts/SlotScript.cs" />
+      <File FileName="Assets/Scripts/BlockSystem.cs" />
+      <File FileName="Assets/Scripts/BuildingSystem.cs" />
+      <File FileName="Assets/Scripts/ChaseTarget.cs" />
+      <File FileName="Assets/Scripts/Explosion.cs" />
+      <File FileName="Assets/Scripts/LootAtMe.cs" />
+      <File FileName="Assets/Scripts/Oclusion.cs" />
+      <File FileName="Assets/Scripts/Script334.cs" />
+      <File FileName="Assets/Scripts/Clone.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityPoject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="BlockScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5a50879b-af52-4e02-a880-9be11a3ed416" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

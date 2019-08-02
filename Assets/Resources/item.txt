@@ -1,0 +1,42 @@
+﻿id: -1
+name: Empty
+stackable: false
+placeable: false
+slug: empty
+quantity: -1
+,
+id: 0
+name: dirt
+stackable: true
+placeable: true
+slug: dirt
+quantity: 0
+,
+id: 1
+name: stone
+stackable: true
+placeable: true
+slug: stone
+quantity: 0
+,
+id: 2
+name: cube
+stackable: true
+placeable: true
+slug: cube
+quantity: 0
+,
+id: 3
+name: wood
+stackable: true
+placeable: true
+slug: wood
+quantity: 0
+,
+id: 4
+name: metal
+stackable: true
+placeable: true
+slug: metal
+quantity: 0
+;
